@@ -24,6 +24,8 @@ public class Athlete {
     @Override
     public String toString() {
         /// TODO: Fill in conversion to string
+        /// Put the Athlete name left justified in a 13 character field
+        /// Put the nationality left justified in a 20 character field
         return "";
     }
 }

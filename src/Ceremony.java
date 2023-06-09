@@ -41,6 +41,8 @@ public class Ceremony extends Thread{
     @Override
     public String toString() {
         /// TODO: Fill in conversion to a String
+        /// Put the ceremony event name left justified in a 10 character field
+        /// Put the Athletes afterward using their native toString method
         return "";
     }
 

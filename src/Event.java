@@ -15,6 +15,8 @@ public class Event {
     @Override
     public String toString() {
         /// TODO: Fill in converting to a String
+        /// Put the event name left justified in a 20 character field
+        /// Put the sport name left justified in a 10 character field
         return "";
     }
 

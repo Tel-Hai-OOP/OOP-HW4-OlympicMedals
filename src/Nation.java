@@ -42,7 +42,11 @@ public class Nation implements Comparable<Nation>{
 
     @Override
     public String toString() {
-        return String.format("%-12s with anthem %-30s", getNationName(), getAnthem());
+
+        /// TODO: Create a String representation of the Nation.
+        /// Put the nation name left justified in a 12 character field
+        /// Put the anthem name left justified in a 30 character field
+        return "";
     }
 
     @Override
@@ -58,19 +62,10 @@ public class Nation implements Comparable<Nation>{
         }
     }
 
-    /**
-     * Constructs a new Nation based on the input string
-     * @param s The input string must have two parts separated by a semicolon
-     * @return The Nation built
-     */
     public static Nation buildNation (String s) {
-        // check that the string is valid
-        String[] parts = s.split(";");
-        if (parts.length != 2) {
-            throw new IllegalArgumentException("Event is not in correct format: " + s);
-        }
-
-        Nation n = new Nation(parts[0].trim(), parts[1].trim());
-        return n;
+        /// TODO: Fill in code to build a Nation based on a String
+        /// Put the nation name left justified in a 12 character field
+        /// Put the anthem name left justified in a 30 character field
+        return null;
     }
 }
