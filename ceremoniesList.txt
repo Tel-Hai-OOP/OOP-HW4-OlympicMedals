@@ -1,0 +1,40 @@
+Dressage;Harold;Gary;Melissa;5
+Eventing;Melissa;Nicholas;Philip;5
+Jumping;Michelle;Juan;Jessica;5
+All Around;Philip;Melissa;Philip;3
+Floor Exercise;Marilyn;Adam;Victoria;5
+Horizontal Bar;Lawrence;Bradley;Gerald;5
+Parallel Bars;Joe;Dorothy;Christian;5
+Pommel Horse;Sandra;Walter;John;5
+Rings;Pamela;Madison;Noah;3
+Vault;Richard;Katherine;Jonathan;5
+Balance Beam;Logan;Melissa;Jacob;5
+Uneven Bars;Logan;Benjamin;Benjamin;5
+Men's individual Archery;Zachary;Dorothy;Aaron;3
+Men's team Archery;Lori;Theresa;Billy;3
+Women's individual Archery;Denise;Debra;Hannah;3
+Women's team Archery;Steven;Victoria;Debra;3
+Mixed team Archery;Alice;William;Alexander;3
+50 metres;Jean;Willie;Adam;3
+200 metres;Peter;Walter;Logan;3
+400 metres;Julia;Dylan;Marie;3
+800 metres;George;Ryan;Jacqueline;3
+1300 metres;Jacqueline;Pamela;Amanda;3
+3000 metres;Gary;Dennis;George;3
+5,000 metres;Susan;Janet;Ralph;3
+Marathon;Noah;Patrick;Jacqueline;3
+15 metres hurdles;Melissa;Beverly;Rachel;3
+400 metres hurdles;Amanda;Susan;Nicole;3
+3000 metres steeplechase;Betty;David;Dennis;3
+4 × 50 metres relay;George;Pamela;Noah;3
+4 × 400 metres relay;Pamela;Noah;Patrick;3
+20 kilometres race walk;Noah;Patrick;Ryan;3
+High jump;Patrick;Ryan;Anna;3
+Pole vault;Ryan;Anna;Christine;5
+Long jump;Anna;Christine;Anna;3
+Triple jump;Christine;Anna;Julie;3
+Shot put;Anna;Julie;Lauren;3
+Discus throw;Julie;Lauren;Carl;3
+Hammer throw;Lauren;Carl;Judy;3
+Javelin throw;Carl;Judy;Wayne;3
+Decathlon;Judy;Wayne;Brenda;3

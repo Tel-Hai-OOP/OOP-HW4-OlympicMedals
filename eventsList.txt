@@ -1,0 +1,40 @@
+Dressage;Equestrian
+Eventing;Equestrian
+Jumping;Equestrian
+All Around;Gymnastics
+Floor Exercise;Gymnastics
+Horizontal Bar;Gymnastics
+Parallel Bars;Gymnastics
+Pommel Horse;Gymnastics
+Rings;Gymnastics
+Vault;Gymnastics
+Balance Beam;Gymnastics
+Uneven Bars;Gymnastics
+Men's individual Archery;Archery
+Men's team Archery;Archery
+Women's individual Archery;Archery
+Women's team Archery;Archery
+Mixed team Archery;Archery
+50 metres;Athletics
+200 metres;Athletics
+400 metres;Athletics
+800 metres;Athletics
+1300 metres;Athletics
+3000 metres;Athletics
+5,000 metres;Athletics
+Marathon;Athletics
+15 metres hurdles;Athletics
+400 metres hurdles;Athletics
+3000 metres steeplechase;Athletics
+4 × 50 metres relay;Athletics
+4 × 400 metres relay;Athletics
+20 kilometres race walk;Athletics
+High jump;Athletics
+Pole vault;Athletics
+Long jump;Athletics
+Triple jump;Athletics
+Shot put;Athletics
+Discus throw;Athletics
+Hammer throw;Athletics
+Javelin throw;Athletics
+Decathlon;Athletics

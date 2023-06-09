@@ -1,0 +1,30 @@
+Armenia;Our Fatherland
+Canada;O Canada
+Chad;La Tchadienne
+China;Yìyǒngjūn Jìnxíngqǔ
+Denmark;Der er et yndigt land
+Egypt;Bilady, Bilady, Bilady
+Estonia;Mu isamaa, mu õnn ja rõõm
+Finland;Maamme
+Germany;Lied der Deutschen
+Honduras;Himno Nacional de Honduras
+Hungary;Himnusz
+Ireland;Amhrán na bhFiann
+Israel;התקוה
+Italy;Fratelli d'Italia
+Japan;Kimigayo
+Jordan;Al-salam Al-malaki Al-urdoni
+Liberia;All Hail, Liberia, Hail!
+Libya;Libya, Libya, Libya
+Lichtenstein;Oben am jungen Rhein
+Lithuania;Tautiška giesmė
+Mexico;Himno Nacional Mexicano
+Mongolia;Mongol ulsiin töriin duulal
+Morocco;Hymne Chérifien
+Netherlands;Wilhelmus
+Poland;Mazurek Dąbrowskiego
+Romania;Deșteaptă-te, române!
+Switzerland;Schweizerpsalm
+UK;God Save the King
+USA;The Star-Spangled Banner
+Venezuela;Gloria al Bravo Pueblo
