@@ -1,7 +1,3 @@
-import org.hamcrest.core.Is;
-
-import javax.print.attribute.standard.MediaSize;
-
 import static org.junit.Assert.*;
 
 public class NationTest {
