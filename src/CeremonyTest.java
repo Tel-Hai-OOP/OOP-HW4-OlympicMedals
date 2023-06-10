@@ -164,4 +164,35 @@ public class CeremonyTest {
         assertEquals("Ceremony for Event  Uneven Bars                  for sport Gymnastics duration 7 and winners Athlete Cid           from Canada       with anthem O Canada                       Athlete Dan           from Denmark      with anthem Der er et yndigt land          and Athlete Alice         from USA          with anthem Star Spangled Banner          ", unevenBarsCeremony.toString());
         assertEquals("Ceremony for Event  Parallel Bars                for sport Gymnastics duration 8 and winners Athlete Dan           from Denmark      with anthem Der er et yndigt land          Athlete Bob           from Israel       with anthem Hatikva                        and Athlete Cid           from Canada       with anthem O Canada                      ", parallelBarsCeremony.toString());
     }
+    
+    @Test
+    public void testBalanceBeamRun() {
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        PrintStream captureOutput = new PrintStream(baos);
+        PrintStream standardOut = System.out;
+        System.setOut(captureOutput);
+
+        // run the balance beam alone
+        balanceBeamCeremony.run();
+        // wait for it to finish
+
+        String results = baos.toString();
+
+        System.setOut(standardOut);
+        Pattern startLine = Pattern.compile("Start  ceremony  Balance Beam               at \\d\\d?:\\d\\d?:\\d\\d? \\(duration  \\d+\\)");
+        Matcher startLineMatch = startLine.matcher(results);
+        assertTrue(startLineMatch.find());
+        assertTrue(results.contains("Event  Balance Beam                 for sport Gymnastics locked Canada    "));
+        assertTrue(results.contains("Event  Balance Beam                 for sport Gymnastics locked Israel    "));
+        assertTrue(results.contains("Event  Balance Beam                 for sport Gymnastics locked USA       "));
+        assertTrue(results.contains("Gold   Medal Athlete Alice         from USA          with anthem Star Spangled Banner          " + System.lineSeparator() +
+                "Silver Medal Athlete Bob           from Israel       with anthem Hatikva                       " + System.lineSeparator() +
+                "Bronze Medal Athlete Cid           from Canada       with anthem O Canada                      " + System.lineSeparator()));
+        assertTrue(results.contains("Event  Balance Beam                 for sport Gymnastics unlocked     Canada"));
+        assertTrue(results.contains("Event  Balance Beam                 for sport Gymnastics unlocked     Israel"));
+        assertTrue(results.contains("Event  Balance Beam                 for sport Gymnastics unlocked        USA"));
+        Pattern endLine = Pattern.compile("End    ceremony  Balance Beam               at \\d\\d+:\\d\\d+:\\d\\d+");
+        Matcher endLineMatch = endLine.matcher(results);
+        assertTrue(endLineMatch.find());
+    }
 }
