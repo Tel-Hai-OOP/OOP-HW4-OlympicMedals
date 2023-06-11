@@ -22,6 +22,11 @@ public class Nation implements Comparable<Nation>{
 
     public String getAnthem() {
         return anthem;
+    }    
+    
+    @Override
+    public int hashCode() {
+        return getNationName().hashCode();
     }
 
     @Override
