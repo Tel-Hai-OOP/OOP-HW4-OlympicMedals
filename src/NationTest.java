@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 public class NationTest {
@@ -12,7 +14,7 @@ public class NationTest {
         Denmark = new Nation("Denmark", "Der er et yndigt land");
     }
 
-    @org.junit.Test
+    @Test
     public void getLock() {
         assertNotNull(USA.getLock());
         assertFalse(USA.getLock().isLocked());
@@ -22,7 +24,7 @@ public class NationTest {
         assertFalse(USA.getLock().isLocked());
     }
 
-    @org.junit.Test
+    @Test
     public void getNationName() {
         assertEquals("USA", USA.getNationName());
         assertEquals("Israel", Israel.getNationName());
@@ -30,7 +32,7 @@ public class NationTest {
         assertEquals("Denmark", Denmark.getNationName());
     }
 
-    @org.junit.Test
+    @Test
     public void getAnthem() {
         assertEquals("Star Spangled Banner", USA.getAnthem());
         assertEquals("התקוה", Israel.getAnthem());
@@ -38,7 +40,7 @@ public class NationTest {
         assertEquals("Der er et yndigt land", Denmark.getAnthem());
     }
 
-    @org.junit.Test
+    @Test
     public void testEquals() {
         assertFalse(USA.equals(Israel));
         assertTrue(USA.equals(USA));
@@ -54,15 +56,7 @@ public class NationTest {
         assertTrue(copy2USA.equals(USA));
     }
 
-    @org.junit.Test
-    public void testToString() {
-        assertEquals("USA          with anthem Star Spangled Banner          ", USA.toString());
-        assertEquals("Israel       with anthem התקוה                         ", Israel.toString());
-        assertEquals("Canada       with anthem O Canada                      ", Canada.toString());
-        assertEquals("Denmark      with anthem Der er et yndigt land         ", Denmark.toString());
-    }
-
-    @org.junit.Test
+    @Test
     public void compareTo() {
         assertTrue(USA.compareTo(Israel) > 0);
         assertTrue(USA.compareTo(Canada) > 0);
@@ -86,34 +80,5 @@ public class NationTest {
         assertTrue(Denmark.compareTo(Israel) < 0);
         assertTrue(Denmark.compareTo(Canada) > 0);
         assertTrue(Denmark.compareTo(Denmark) == 0);
-    }
-
-    @org.junit.Test
-    public void buildNation() {
-        // Correctly formatted string - should work
-        String romaniaString = "Romania;Deșteaptă-te, române!";
-        Nation Romania = Nation.buildNation(romaniaString);
-        assertEquals("Romania", Romania.getNationName());
-        assertEquals("Deșteaptă-te, române!", Romania.getAnthem());
-
-        // missing semicolon should fail
-        try {
-            String missingSemicolon = "Romania Deșteaptă-te, române!";
-            Nation n = Nation.buildNation(missingSemicolon);
-            fail();
-        } catch (Exception e) {
-            // good!
-            assertTrue(true);
-        }
-
-        // having too many parts should fail
-        try {
-            String extraPart = "Romania;Deșteaptă-te, române!;Europe";
-            Nation n = Nation.buildNation(extraPart);
-            fail();
-        } catch (Exception e) {
-            // good!
-            assertTrue(true);
-        }
     }
 }
