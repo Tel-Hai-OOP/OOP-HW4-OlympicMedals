@@ -1,0 +1,367 @@
+Start  ceremony  20 kilometres race walk    at 11:06:20 (duration   3)
+Start  ceremony  Women's team Archery       at 11:06:20 (duration   3)
+Event  Women's team Archery         for sport Archery    locked Venezuela 
+Gold   Medal Athlete Steven        from Venezuela    with anthem Gloria al Bravo Pueblo        
+Start  ceremony  Triple jump                at 11:06:20 (duration   3)
+Event  Triple jump                  for sport Athletics  locked Honduras  
+Gold   Medal Athlete Christine     from Honduras     with anthem Himno Nacional de Honduras    
+Start  ceremony  Shot put                   at 11:06:20 (duration   3)
+Start  ceremony  4 × 400 metres relay       at 11:06:20 (duration   3)
+Start  ceremony  400 metres hurdles         at 11:06:20 (duration   3)
+Event  400 metres hurdles           for sport Athletics  locked Denmark   
+Event  400 metres hurdles           for sport Athletics  locked Finland   
+Gold   Medal Athlete Amanda        from Denmark      with anthem Der er et yndigt land         
+Start  ceremony  Hammer throw               at 11:06:20 (duration   3)
+Start  ceremony  15 metres hurdles          at 11:06:20 (duration   3)
+Event  15 metres hurdles            for sport Athletics  locked Canada    
+Event  15 metres hurdles            for sport Athletics  locked Chad      
+Event  15 metres hurdles            for sport Athletics  locked China     
+Gold   Medal Athlete Melissa       from Canada       with anthem O Canada                      
+Start  ceremony  800 metres                 at 11:06:20 (duration   3)
+Start  ceremony  Dressage                   at 11:06:20 (duration   5)
+Event  Dressage                     for sport Equestrian locked Armenia   
+Start  ceremony  Uneven Bars                at 11:06:20 (duration   5)
+Event  Uneven Bars                  for sport Gymnastics locked Mongolia  
+Event  Uneven Bars                  for sport Gymnastics locked Morocco   
+Gold   Medal Athlete Logan         from Morocco      with anthem Hymne Chérifien               
+Start  ceremony  All Around                 at 11:06:20 (duration   3)
+Start  ceremony  5,000 metres               at 11:06:20 (duration   3)
+Start  ceremony  Marathon                   at 11:06:20 (duration   3)
+Start  ceremony  Long jump                  at 11:06:20 (duration   3)
+Start  ceremony  200 metres                 at 11:06:20 (duration   3)
+Event  200 metres                   for sport Athletics  locked Mexico    
+Start  ceremony  Floor Exercise             at 11:06:20 (duration   5)
+Event  Floor Exercise               for sport Gymnastics locked Lichtenstein
+Start  ceremony  Discus throw               at 11:06:20 (duration   3)
+Start  ceremony  4 × 50 metres relay        at 11:06:20 (duration   3)
+Start  ceremony  Men's individual Archery   at 11:06:20 (duration   3)
+Start  ceremony  Men's team Archery         at 11:06:20 (duration   3)
+Start  ceremony  Horizontal Bar             at 11:06:20 (duration   5)
+Start  ceremony  400 metres                 at 11:06:20 (duration   3)
+Start  ceremony  Eventing                   at 11:06:20 (duration   5)
+Start  ceremony  High jump                  at 11:06:20 (duration   3)
+Start  ceremony  1300 metres                at 11:06:20 (duration   3)
+Start  ceremony  Women's individual Archery at 11:06:20 (duration   3)
+Start  ceremony  Rings                      at 11:06:20 (duration   3)
+Start  ceremony  Jumping                    at 11:06:20 (duration   5)
+Start  ceremony  Pole vault                 at 11:06:20 (duration   5)
+Start  ceremony  Vault                      at 11:06:20 (duration   5)
+Event  Vault                        for sport Gymnastics locked Israel    
+Event  Vault                        for sport Gymnastics locked Italy     
+Event  Vault                        for sport Gymnastics locked UK        
+Gold   Medal Athlete Richard       from Israel       with anthem התקוה                         
+Start  ceremony  Pommel Horse               at 11:06:20 (duration   5)
+Start  ceremony  3000 metres steeplechase   at 11:06:20 (duration   3)
+Start  ceremony  Mixed team Archery         at 11:06:20 (duration   3)
+Start  ceremony  Decathlon                  at 11:06:20 (duration   3)
+Start  ceremony  Balance Beam               at 11:06:20 (duration   5)
+Start  ceremony  50 metres                  at 11:06:20 (duration   3)
+Event  50 metres                    for sport Athletics  locked Lithuania 
+Start  ceremony  Parallel Bars              at 11:06:20 (duration   5)
+Start  ceremony  Javelin throw              at 11:06:20 (duration   3)
+Start  ceremony  3000 metres                at 11:06:20 (duration   3)
+Event  20 kilometres race walk      for sport Athletics  locked Germany   
+Gold   Medal Athlete Noah          from Germany      with anthem Lied der Deutschen            
+Event  4 × 400 metres relay         for sport Athletics  locked Egypt     
+Event  Horizontal Bar               for sport Gymnastics locked Switzerland
+Event  Horizontal Bar               for sport Gymnastics locked USA       
+Event  Decathlon                    for sport Athletics  locked Hungary   
+Event  Decathlon                    for sport Athletics  locked Ireland   
+Gold   Medal Athlete Judy          from Hungary      with anthem Himnusz                       
+Silver Medal Athlete Anna          from Honduras     with anthem Himno Nacional de Honduras    
+Silver Medal Athlete Victoria      from Venezuela    with anthem Gloria al Bravo Pueblo        
+Silver Medal Athlete Susan         from Denmark      with anthem Der er et yndigt land         
+Silver Medal Athlete Beverly       from Chad         with anthem La Tchadienne                 
+Silver Medal Athlete Wayne         from Hungary      with anthem Himnusz                       
+Silver Medal Athlete Patrick       from Germany      with anthem Lied der Deutschen            
+Silver Medal Athlete Benjamin      from Mongolia     with anthem Mongol ulsiin töriin duulal   
+Silver Medal Athlete Katherine     from Italy        with anthem Fratelli d'Italia             
+Bronze Medal Athlete Julie         from Honduras     with anthem Himno Nacional de Honduras    
+Bronze Medal Athlete Nicole        from Finland      with anthem Maamme                        
+Bronze Medal Athlete Debra         from Venezuela    with anthem Gloria al Bravo Pueblo        
+Bronze Medal Athlete Rachel        from China        with anthem Yìyǒngjūn Jìnxíngqǔ           
+Bronze Medal Athlete Brenda        from Ireland      with anthem Amhrán na bhFiann             
+Bronze Medal Athlete Ryan          from Germany      with anthem Lied der Deutschen            
+Event  400 metres hurdles           for sport Athletics  unlocked    Denmark
+Event  400 metres hurdles           for sport Athletics  unlocked    Finland
+Event  800 metres                   for sport Athletics  locked Denmark   
+Event  Women's team Archery         for sport Archery    unlocked  Venezuela
+End    ceremony  Women's team Archery       at 11:06:29
+Event  Triple jump                  for sport Athletics  unlocked   Honduras
+End    ceremony  Triple jump                at 11:06:29
+Event  Women's individual Archery   for sport Archery    locked Venezuela 
+Gold   Medal Athlete Denise        from Venezuela    with anthem Gloria al Bravo Pueblo        
+Event  Shot put                     for sport Athletics  locked Honduras  
+Gold   Medal Athlete Anna          from Honduras     with anthem Himno Nacional de Honduras    
+Event  15 metres hurdles            for sport Athletics  unlocked     Canada
+Event  15 metres hurdles            for sport Athletics  unlocked       Chad
+Event  15 metres hurdles            for sport Athletics  unlocked      China
+End    ceremony  15 metres hurdles          at 11:06:29
+Event  Dressage                     for sport Equestrian locked Canada    
+End    ceremony  400 metres hurdles         at 11:06:29
+Event  Decathlon                    for sport Athletics  unlocked    Hungary
+Event  Decathlon                    for sport Athletics  unlocked    Ireland
+Event  20 kilometres race walk      for sport Athletics  unlocked    Germany
+Event  Javelin throw                for sport Athletics  locked Hungary   
+Gold   Medal Athlete Carl          from Hungary      with anthem Himnusz                       
+Event  400 metres                   for sport Athletics  locked Germany   
+End    ceremony  Decathlon                  at 11:06:29
+End    ceremony  20 kilometres race walk    at 11:06:29
+Event  400 metres                   for sport Athletics  locked Libya     
+Gold   Medal Athlete Julia         from Libya        with anthem Libya, Libya, Libya           
+Bronze Medal Athlete Benjamin      from Mongolia     with anthem Mongol ulsiin töriin duulal   
+Bronze Medal Athlete Jonathan      from UK           with anthem God Save the King             
+Silver Medal Athlete Julie         from Honduras     with anthem Himno Nacional de Honduras    
+Silver Medal Athlete Debra         from Venezuela    with anthem Gloria al Bravo Pueblo        
+Silver Medal Athlete Dylan         from Libya        with anthem Libya, Libya, Libya           
+Silver Medal Athlete Judy          from Hungary      with anthem Himnusz                       
+Event  Uneven Bars                  for sport Gymnastics unlocked   Mongolia
+Event  Uneven Bars                  for sport Gymnastics unlocked    Morocco
+Event  Men's individual Archery     for sport Archery    locked Mongolia  
+Gold   Medal Athlete Zachary       from Mongolia     with anthem Mongol ulsiin töriin duulal   
+Event  200 metres                   for sport Athletics  locked Morocco   
+Gold   Medal Athlete Peter         from Mexico       with anthem Himno Nacional Mexicano       
+End    ceremony  Uneven Bars                at 11:06:35
+Bronze Medal Athlete Lauren        from Honduras     with anthem Himno Nacional de Honduras    
+Bronze Medal Athlete Hannah        from Venezuela    with anthem Gloria al Bravo Pueblo        
+Event  Vault                        for sport Gymnastics unlocked     Israel
+Event  Vault                        for sport Gymnastics unlocked      Italy
+Event  Vault                        for sport Gymnastics unlocked         UK
+End    ceremony  Vault                      at 11:06:35
+Bronze Medal Athlete Marie         from Germany      with anthem Lied der Deutschen            
+Bronze Medal Athlete Wayne         from Hungary      with anthem Himnusz                       
+Silver Medal Athlete Dorothy       from Mongolia     with anthem Mongol ulsiin töriin duulal   
+Silver Medal Athlete Walter        from Mexico       with anthem Himno Nacional Mexicano       
+Event  Women's individual Archery   for sport Archery    unlocked  Venezuela
+Event  Shot put                     for sport Athletics  unlocked   Honduras
+Event  Hammer throw                 for sport Athletics  locked Honduras  
+Event  Horizontal Bar               for sport Gymnastics locked Venezuela 
+Gold   Medal Athlete Lawrence      from Venezuela    with anthem Gloria al Bravo Pueblo        
+End    ceremony  Women's individual Archery at 11:06:38
+End    ceremony  Shot put                   at 11:06:38
+Event  400 metres                   for sport Athletics  unlocked    Germany
+Event  400 metres                   for sport Athletics  unlocked      Libya
+End    ceremony  400 metres                 at 11:06:38
+Event  High jump                    for sport Athletics  locked Germany   
+Event  Javelin throw                for sport Athletics  unlocked    Hungary
+End    ceremony  Javelin throw              at 11:06:38
+Event  Hammer throw                 for sport Athletics  locked Hungary   
+Gold   Medal Athlete Lauren        from Honduras     with anthem Himno Nacional de Honduras    
+Bronze Medal Athlete Aaron         from Mongolia     with anthem Mongol ulsiin töriin duulal   
+Bronze Medal Athlete Logan         from Morocco      with anthem Hymne Chérifien               
+Silver Medal Athlete Carl          from Hungary      with anthem Himnusz                       
+Silver Medal Athlete Bradley       from USA          with anthem The Star-Spangled Banner      
+Event  200 metres                   for sport Athletics  unlocked     Mexico
+Event  200 metres                   for sport Athletics  unlocked    Morocco
+Event  Floor Exercise               for sport Gymnastics locked Mexico    
+Event  Men's individual Archery     for sport Archery    unlocked   Mongolia
+Event  Parallel Bars                for sport Gymnastics locked Mongolia  
+Event  Parallel Bars                for sport Gymnastics locked Netherlands
+Event  Parallel Bars                for sport Gymnastics locked Romania   
+Gold   Medal Athlete Joe           from Romania      with anthem Deșteaptă-te, române!         
+End    ceremony  200 metres                 at 11:06:44
+End    ceremony  Men's individual Archery   at 11:06:44
+Bronze Medal Athlete Judy          from Hungary      with anthem Himnusz                       
+Event  Hammer throw                 for sport Athletics  unlocked   Honduras
+Event  Hammer throw                 for sport Athletics  unlocked    Hungary
+Event  Long jump                    for sport Athletics  locked Honduras  
+Gold   Medal Athlete Anna          from Honduras     with anthem Himno Nacional de Honduras    
+End    ceremony  Hammer throw               at 11:06:47
+Bronze Medal Athlete Gerald        from Switzerland  with anthem Schweizerpsalm                
+Silver Medal Athlete Dorothy       from Mongolia     with anthem Mongol ulsiin töriin duulal   
+Silver Medal Athlete Christine     from Honduras     with anthem Himno Nacional de Honduras    
+Event  Horizontal Bar               for sport Gymnastics unlocked Switzerland
+Event  Horizontal Bar               for sport Gymnastics unlocked        USA
+Event  Horizontal Bar               for sport Gymnastics unlocked  Venezuela
+Event  Floor Exercise               for sport Gymnastics locked Venezuela 
+Gold   Medal Athlete Marilyn       from Lichtenstein with anthem Oben am jungen Rhein          
+End    ceremony  Horizontal Bar             at 11:06:53
+Bronze Medal Athlete Anna          from Honduras     with anthem Himno Nacional de Honduras    
+Bronze Medal Athlete Christian     from Netherlands  with anthem Wilhelmus                     
+Event  Long jump                    for sport Athletics  unlocked   Honduras
+Event  Discus throw                 for sport Athletics  locked Honduras  
+Event  Discus throw                 for sport Athletics  locked Hungary   
+Gold   Medal Athlete Julie         from Honduras     with anthem Himno Nacional de Honduras    
+End    ceremony  Long jump                  at 11:06:56
+Silver Medal Athlete Adam          from Mexico       with anthem Himno Nacional Mexicano       
+Event  Parallel Bars                for sport Gymnastics unlocked   Mongolia
+Event  Parallel Bars                for sport Gymnastics unlocked Netherlands
+Event  Parallel Bars                for sport Gymnastics unlocked    Romania
+End    ceremony  Parallel Bars              at 11:06:59
+Silver Medal Athlete Lauren        from Honduras     with anthem Himno Nacional de Honduras    
+Bronze Medal Athlete Carl          from Hungary      with anthem Himnusz                       
+Bronze Medal Athlete Victoria      from Venezuela    with anthem Gloria al Bravo Pueblo        
+Event  Discus throw                 for sport Athletics  unlocked   Honduras
+Event  Discus throw                 for sport Athletics  unlocked    Hungary
+Event  High jump                    for sport Athletics  locked Honduras  
+Gold   Medal Athlete Patrick       from Germany      with anthem Lied der Deutschen            
+End    ceremony  Discus throw               at 11:07:05
+Event  Floor Exercise               for sport Gymnastics unlocked Lichtenstein
+Event  Floor Exercise               for sport Gymnastics unlocked     Mexico
+Event  Floor Exercise               for sport Gymnastics unlocked  Venezuela
+Event  Men's team Archery           for sport Archery    locked Mexico    
+Event  Men's team Archery           for sport Archery    locked Poland    
+Event  Men's team Archery           for sport Archery    locked Venezuela 
+Gold   Medal Athlete Lori          from Poland       with anthem Mazurek Dąbrowskiego          
+End    ceremony  Floor Exercise             at 11:07:08
+Silver Medal Athlete Ryan          from Germany      with anthem Lied der Deutschen            
+Silver Medal Athlete Theresa       from Mexico       with anthem Himno Nacional Mexicano       
+Bronze Medal Athlete Anna          from Honduras     with anthem Himno Nacional de Honduras    
+Bronze Medal Athlete Billy         from Venezuela    with anthem Gloria al Bravo Pueblo        
+Event  High jump                    for sport Athletics  unlocked    Germany
+Event  High jump                    for sport Athletics  unlocked   Honduras
+Event  Pole vault                   for sport Athletics  locked Germany   
+Event  Pole vault                   for sport Athletics  locked Honduras  
+Gold   Medal Athlete Ryan          from Germany      with anthem Lied der Deutschen            
+End    ceremony  High jump                  at 11:07:14
+Event  Men's team Archery           for sport Archery    unlocked     Mexico
+Event  Men's team Archery           for sport Archery    unlocked     Poland
+Event  Men's team Archery           for sport Archery    unlocked  Venezuela
+Event  Mixed team Archery           for sport Archery    locked Mexico    
+Event  Mixed team Archery           for sport Archery    locked Netherlands
+Event  Mixed team Archery           for sport Archery    locked Switzerland
+Gold   Medal Athlete Alice         from Switzerland  with anthem Schweizerpsalm                
+End    ceremony  Men's team Archery         at 11:07:17
+Silver Medal Athlete Anna          from Honduras     with anthem Himno Nacional de Honduras    
+Silver Medal Athlete William       from Mexico       with anthem Himno Nacional Mexicano       
+Bronze Medal Athlete Alexander     from Netherlands  with anthem Wilhelmus                     
+Bronze Medal Athlete Christine     from Honduras     with anthem Himno Nacional de Honduras    
+Event  Mixed team Archery           for sport Archery    unlocked     Mexico
+Event  Mixed team Archery           for sport Archery    unlocked Netherlands
+Event  Mixed team Archery           for sport Archery    unlocked Switzerland
+Event  50 metres                    for sport Athletics  locked Mexico    
+Gold   Medal Athlete Jean          from Lithuania    with anthem Tautiška giesmė               
+End    ceremony  Mixed team Archery         at 11:07:26
+Silver Medal Athlete Willie        from Lithuania    with anthem Tautiška giesmė               
+Event  Pole vault                   for sport Athletics  unlocked    Germany
+Event  Pole vault                   for sport Athletics  unlocked   Honduras
+Event  3000 metres steeplechase     for sport Athletics  locked Germany   
+Gold   Medal Athlete Betty         from Germany      with anthem Lied der Deutschen            
+End    ceremony  Pole vault                 at 11:07:29
+Bronze Medal Athlete Adam          from Mexico       with anthem Himno Nacional Mexicano       
+Silver Medal Athlete David         from Germany      with anthem Lied der Deutschen            
+Event  50 metres                    for sport Athletics  unlocked  Lithuania
+Event  50 metres                    for sport Athletics  unlocked     Mexico
+End    ceremony  50 metres                  at 11:07:35
+Bronze Medal Athlete Dennis        from Germany      with anthem Lied der Deutschen            
+Event  3000 metres steeplechase     for sport Athletics  unlocked    Germany
+Event  4 × 400 metres relay         for sport Athletics  locked Germany   
+Gold   Medal Athlete Pamela        from Egypt        with anthem Bilady, Bilady, Bilady        
+End    ceremony  3000 metres steeplechase   at 11:07:38
+Silver Medal Athlete Noah          from Germany      with anthem Lied der Deutschen            
+Bronze Medal Athlete Patrick       from Germany      with anthem Lied der Deutschen            
+Event  4 × 400 metres relay         for sport Athletics  unlocked      Egypt
+Event  4 × 400 metres relay         for sport Athletics  unlocked    Germany
+Event  4 × 50 metres relay          for sport Athletics  locked Egypt     
+Event  4 × 50 metres relay          for sport Athletics  locked Germany   
+Gold   Medal Athlete George        from Egypt        with anthem Bilady, Bilady, Bilady        
+End    ceremony  4 × 400 metres relay       at 11:07:47
+Silver Medal Athlete Pamela        from Egypt        with anthem Bilady, Bilady, Bilady        
+Bronze Medal Athlete Noah          from Germany      with anthem Lied der Deutschen            
+Event  4 × 50 metres relay          for sport Athletics  unlocked      Egypt
+Event  4 × 50 metres relay          for sport Athletics  unlocked    Germany
+Event  Rings                        for sport Gymnastics locked Egypt     
+Event  Rings                        for sport Gymnastics locked Estonia   
+Event  Rings                        for sport Gymnastics locked Germany   
+Gold   Medal Athlete Pamela        from Egypt        with anthem Bilady, Bilady, Bilady        
+End    ceremony  4 × 50 metres relay        at 11:07:56
+Silver Medal Athlete Madison       from Estonia      with anthem Mu isamaa, mu õnn ja rõõm     
+Bronze Medal Athlete Noah          from Germany      with anthem Lied der Deutschen            
+Event  Rings                        for sport Gymnastics unlocked      Egypt
+Event  Rings                        for sport Gymnastics unlocked    Estonia
+Event  Rings                        for sport Gymnastics unlocked    Germany
+Event  800 metres                   for sport Athletics  locked Egypt     
+Event  800 metres                   for sport Athletics  locked Germany   
+Gold   Medal Athlete George        from Egypt        with anthem Bilady, Bilady, Bilady        
+End    ceremony  Rings                      at 11:08:05
+Silver Medal Athlete Ryan          from Germany      with anthem Lied der Deutschen            
+Bronze Medal Athlete Jacqueline    from Denmark      with anthem Der er et yndigt land         
+Event  800 metres                   for sport Athletics  unlocked    Denmark
+Event  800 metres                   for sport Athletics  unlocked      Egypt
+Event  800 metres                   for sport Athletics  unlocked    Germany
+Event  5,000 metres                 for sport Athletics  locked Denmark   
+Gold   Medal Athlete Susan         from Denmark      with anthem Der er et yndigt land         
+End    ceremony  800 metres                 at 11:08:14
+Silver Medal Athlete Janet         from Denmark      with anthem Der er et yndigt land         
+Bronze Medal Athlete Ralph         from Denmark      with anthem Der er et yndigt land         
+Event  5,000 metres                 for sport Athletics  unlocked    Denmark
+Event  Marathon                     for sport Athletics  locked Denmark   
+Event  Marathon                     for sport Athletics  locked Germany   
+Gold   Medal Athlete Noah          from Germany      with anthem Lied der Deutschen            
+End    ceremony  5,000 metres               at 11:08:23
+Silver Medal Athlete Patrick       from Germany      with anthem Lied der Deutschen            
+Bronze Medal Athlete Jacqueline    from Denmark      with anthem Der er et yndigt land         
+Event  Marathon                     for sport Athletics  unlocked    Denmark
+Event  Marathon                     for sport Athletics  unlocked    Germany
+Event  1300 metres                  for sport Athletics  locked Denmark   
+Event  1300 metres                  for sport Athletics  locked Egypt     
+Gold   Medal Athlete Jacqueline    from Denmark      with anthem Der er et yndigt land         
+End    ceremony  Marathon                   at 11:08:32
+Silver Medal Athlete Pamela        from Egypt        with anthem Bilady, Bilady, Bilady        
+Bronze Medal Athlete Amanda        from Denmark      with anthem Der er et yndigt land         
+Event  1300 metres                  for sport Athletics  unlocked    Denmark
+Event  1300 metres                  for sport Athletics  unlocked      Egypt
+Event  3000 metres                  for sport Athletics  locked Denmark   
+Event  3000 metres                  for sport Athletics  locked Egypt     
+Event  3000 metres                  for sport Athletics  locked Germany   
+Gold   Medal Athlete Gary          from Denmark      with anthem Der er et yndigt land         
+End    ceremony  1300 metres                at 11:08:41
+Silver Medal Athlete Dennis        from Germany      with anthem Lied der Deutschen            
+Bronze Medal Athlete George        from Egypt        with anthem Bilady, Bilady, Bilady        
+Event  3000 metres                  for sport Athletics  unlocked    Denmark
+Event  3000 metres                  for sport Athletics  unlocked      Egypt
+Event  3000 metres                  for sport Athletics  unlocked    Germany
+Event  Dressage                     for sport Equestrian locked Denmark   
+Gold   Medal Athlete Harold        from Armenia      with anthem Our Fatherland                
+End    ceremony  3000 metres                at 11:08:50
+Silver Medal Athlete Gary          from Denmark      with anthem Der er et yndigt land         
+Bronze Medal Athlete Melissa       from Canada       with anthem O Canada                      
+Event  Dressage                     for sport Equestrian unlocked    Armenia
+Event  Dressage                     for sport Equestrian unlocked     Canada
+Event  Dressage                     for sport Equestrian unlocked    Denmark
+Event  All Around                   for sport Gymnastics locked Canada    
+Event  All Around                   for sport Gymnastics locked Denmark   
+Gold   Medal Athlete Philip        from Denmark      with anthem Der er et yndigt land         
+End    ceremony  Dressage                   at 11:09:05
+Silver Medal Athlete Melissa       from Canada       with anthem O Canada                      
+Bronze Medal Athlete Philip        from Denmark      with anthem Der er et yndigt land         
+Event  All Around                   for sport Gymnastics unlocked     Canada
+Event  All Around                   for sport Gymnastics unlocked    Denmark
+Event  Eventing                     for sport Equestrian locked Canada    
+Event  Eventing                     for sport Equestrian locked Denmark   
+Gold   Medal Athlete Melissa       from Canada       with anthem O Canada                      
+End    ceremony  All Around                 at 11:09:14
+Silver Medal Athlete Nicholas      from Canada       with anthem O Canada                      
+Bronze Medal Athlete Philip        from Denmark      with anthem Der er et yndigt land         
+Event  Eventing                     for sport Equestrian unlocked     Canada
+Event  Eventing                     for sport Equestrian unlocked    Denmark
+Event  Jumping                      for sport Equestrian locked Canada    
+Event  Jumping                      for sport Equestrian locked Germany   
+Event  Jumping                      for sport Equestrian locked Israel    
+Gold   Medal Athlete Michelle      from Germany      with anthem Lied der Deutschen            
+End    ceremony  Eventing                   at 11:09:30
+Silver Medal Athlete Juan          from Israel       with anthem התקוה                         
+Bronze Medal Athlete Jessica       from Canada       with anthem O Canada                      
+Event  Jumping                      for sport Equestrian unlocked     Canada
+Event  Jumping                      for sport Equestrian unlocked    Germany
+Event  Jumping                      for sport Equestrian unlocked     Israel
+Event  Pommel Horse                 for sport Gymnastics locked Canada    
+End    ceremony  Jumping                    at 11:09:45
+Event  Pommel Horse                 for sport Gymnastics locked Mexico    
+Gold   Medal Athlete Sandra        from Mexico       with anthem Himno Nacional Mexicano       
+Silver Medal Athlete Walter        from Mexico       with anthem Himno Nacional Mexicano       
+Bronze Medal Athlete John          from Canada       with anthem O Canada                      
+Event  Pommel Horse                 for sport Gymnastics unlocked     Canada
+Event  Pommel Horse                 for sport Gymnastics unlocked     Mexico
+Event  Balance Beam                 for sport Gymnastics locked Canada    
+Event  Balance Beam                 for sport Gymnastics locked Morocco   
+Event  Balance Beam                 for sport Gymnastics locked USA       
+Gold   Medal Athlete Logan         from Morocco      with anthem Hymne Chérifien               
+End    ceremony  Pommel Horse               at 11:10:00
+Silver Medal Athlete Melissa       from Canada       with anthem O Canada                      
+Bronze Medal Athlete Jacob         from USA          with anthem The Star-Spangled Banner      
+Event  Balance Beam                 for sport Gymnastics unlocked     Canada
+Event  Balance Beam                 for sport Gymnastics unlocked    Morocco
+Event  Balance Beam                 for sport Gymnastics unlocked        USA
+End    ceremony  Balance Beam               at 11:10:15
+End all ceremonies
